@@ -1,2 +1,6 @@
 branch practice 
 
+git checkout master 
+git merge my_branch 
+
+
